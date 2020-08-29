@@ -8,6 +8,6 @@ This website is a combination of personal portfolio and a text analyzer
     <br>
     1. Count Characters in a given text<br>
     2. Remove Punctuations in a given text<br>
-    1. Remove White Spaces in a given text<br>
+    3. Remove White Spaces in a given text<br>
     </li>
   </ul>
